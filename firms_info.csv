@@ -1,0 +1,24 @@
+Ticker,Name,Sector
+FRC,First Republic,Bank
+PNC,PNC Financial,Bank
+USB,US Bancorp,Bank
+JPM,JPMorgan Chase,Bank
+BAC,Bank of America,Bank
+C,Citigroup,Bank
+RY,Royal Bank of Canada,Bank
+WFC,Wells Fargo,Bank
+GS,Goldman Sachs,Bank
+MS,Morgan Stanley,Bank
+HSBC,HSBC Holdings plc,Bank
+JNJ,Johnson & Johnson,Health
+PFE,Pfizer,Health
+MRK,Merck & Co.,Health
+XOM,Exxon,Energy
+RDS,Royal Dutch Shell,Energy
+CVS,Chevron,Energy
+BP,BP,Energy
+AAPL,Apple,Tech
+GOOG,Alphabet,Tech
+MSFT,Microsoft,Tech
+BABA,Alibaba,Tech
+SP500,S&P 500,Market Index
